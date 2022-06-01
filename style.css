@@ -1,0 +1,31 @@
+body{
+    background-image: url("https://coolbackgrounds.io/images/backgrounds/index/sea-edge-79ab30e2.png");
+}
+.navbar{
+    background-color: rgb(145, 213, 171);
+}
+.jumbotron{
+    height: 400px;
+    margin: 3px 10px 10px;
+    padding-left: 10rem;
+    background-image: url("https://i.pinimg.com/564x/33/d0/a8/33d0a824fa331f551e400368ac57f87e.jpg");
+    background-size: cover;
+}
+.display-4{
+    font-family: sans-serif;
+}
+.deal{
+    background-color: rgb(192, 223, 251);
+    height: 300px;
+    border-radius: 20px;
+    padding-top: 60px;
+    margin: 0 auto;
+}
+.heading{
+    padding-left: 100px;
+    margin: 10px 10px 10px;
+}
+footer{
+    text-align: center;
+    background-color: rgb(145, 213, 171);
+}
